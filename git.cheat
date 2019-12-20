@@ -1,0 +1,9 @@
+% git
+# initialize new git on this folder
+git init
+
+#changed file in your local directory list
+git status
+
+#add all current changes to next commit
+git add .
