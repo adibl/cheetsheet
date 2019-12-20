@@ -1,0 +1,13 @@
+% bash, shell
+
+# see current folder
+pwd
+
+# change folder
+cd <path>
+
+# see folder files 
+ls <relative_path>
+
+# remove directory with all the files in it
+rm -r <path>

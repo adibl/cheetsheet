@@ -1,0 +1,16 @@
+% vim text object
+
+#start inner (without spaces)
+i
+
+#start around (with spaces)
+a
+
+#paragraph
+p
+
+#word
+w
+
+#sentence
+s

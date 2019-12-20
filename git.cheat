@@ -2,8 +2,21 @@
 # initialize new git on this folder
 git init
 
-#changed file in your local directory list
+# Displays the current status of a git repository
 git status
 
-#add all current changes to next commit
+# add all current changes to next commit
 git add .
+
+# add file to next commit
+git add -p<file>
+
+# commit changes
+git commit
+
+# show all commits
+git log
+
+# changes to tracked files
+git diff
+

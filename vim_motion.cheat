@@ -1,0 +1,40 @@
+% vim motions
+
+# word backword 
+b
+
+# end of cuttenr word
+e
+
+# find, find character go to character (;-next ,-prev)
+f
+
+# till, find character go one before character (;-next ,-prev)
+t
+
+# go backe end, end of last word
+ge
+
+# maching brackets
+%
+
+# go to end of line
+$
+
+# go to start of line
+0
+
+# go to first non space in line (start)
+^
+
+# go to end of file
+G
+
+# go to start of file
+gg
+
+# go to line number
+<number>G
+
+
+

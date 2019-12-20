@@ -1,0 +1,13 @@
+% vim line
+
+# save and quit
+:wq
+
+# quit without saving
+:q!
+
+# search forword (n-next, N-prev)
+/
+
+# search backwords
+?
