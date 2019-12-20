@@ -20,3 +20,12 @@ git log
 # changes to tracked files
 git diff
 
+# confige remote repository to folder
+git remote add origin <url>
+
+# git commit to remote (first time only)
+git push -u origin master
+
+# git commit to remote
+git push origin master
+
