@@ -1,0 +1,7 @@
+% vim, insert mode
+
+# indent
+C-t
+
+# unindent
+C-d

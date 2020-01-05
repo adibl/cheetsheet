@@ -29,3 +29,9 @@ git push -u origin master
 # git commit to remote
 git push origin master
 
+# git add all type files
+find . -name '*.py' | xargs git add
+
+# git show diff in vim
+git difftool
+

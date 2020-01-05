@@ -16,7 +16,7 @@ t
 ge
 
 # maching brackets
-%
+,%
 
 # go to end of line
 $
@@ -36,5 +36,17 @@ gg
 # go to line number
 <number>G
 
+# find, go to curucter
+f
 
+# till, go one before character
+t
 
+# till, find, t, f next match
+;
+
+# till, find, t, f match before
+,
+
+# go to maching brackets
+,%

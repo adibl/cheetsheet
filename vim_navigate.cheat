@@ -1,0 +1,7 @@
+% vim, navigate, move
+
+# tab forword
+gt
+
+# tab backword 
+gT

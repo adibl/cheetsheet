@@ -1,0 +1,13 @@
+% vim, netrw
+
+# open file in this tab
+Exp
+
+# open selection in new tab
+Tex
+
+# open file in new tab
+t
+
+# create new file
+%

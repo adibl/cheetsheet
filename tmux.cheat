@@ -1,0 +1,31 @@
+% tmux
+
+# prefix
+C-a
+
+# split left right
+,%
+
+# split top bottom
+"
+
+# move panes
+like vim
+
+# last pane
+;
+
+# next pane
+o
+
+# min/max this pane
+z
+
+# delete pane
+d
+
+# enter moude copy paste
+Enter
+
+# detach session
+d

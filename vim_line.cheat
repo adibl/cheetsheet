@@ -11,3 +11,9 @@
 
 # search backwords
 ?
+
+# plugin options
+Plug<option>
+
+# find file and open it in this tab
+find <regex>

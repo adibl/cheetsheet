@@ -11,3 +11,24 @@ ls <relative_path>
 
 # remove directory with all the files in it
 rm -r <path>
+
+# copy file to file
+cp <source_file> <dest_file>
+
+# create empty file
+touch <filename>
+
+# rename file
+mv <filename> <fileNEWname>
+
+# move file
+mv <filename> <newdir>
+
+# find files by regex
+find <place_to_search> -name "<regex>"
+
+# timer
+sleep <time> ; alert
+
+# symlink 
+ln -s <source-file> <link-name>
